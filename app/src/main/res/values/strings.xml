@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="array_technology">
+        <item>Name</item>
+        <item>Contact_Number</item>
+        <item>Eamail_id</item>
+        <item>Contact</item>
+    </string-array>
+</resources>
